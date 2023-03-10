@@ -1,0 +1,41 @@
+
+@font-face {
+    font-family: 'poppins' ;
+    src: url(../fonts/poppins.woff2);
+}
+
+body   {
+    font-family: 'poppins';
+}
+
+nav {
+    background-color: rgb(1, 60, 1);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+nav.baris {
+    display: flex;
+    align-items: center;
+    height: 5px;
+}
+ 
+nav.navigasi {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+}
+nav.baris img{
+    height: 40px;
+}
+nav.navigasi a {
+    color: white;
+    margin-left: 400px;
+}
+nav.navigasi a{
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}

@@ -1,0 +1,82 @@
+Bahan Website
+
+# Menu dan urutan navigasi:
+    Gambar Logo (logo sudah disertakan)
+        Best Seller
+        Our Team
+        Review
+        Contact Us
+    Tombol Chat whatsapp ke: 081290465034
+
+# Header
+
+    Kopi Kuy (ada icon kopi)
+
+    Kopi Kuy merupakan sebuah startup kopi retail yang ingin menyajikan high quality Coffee untuk para pelanggannya.
+
+    # Revisi 01 Januari 2099
+        Karena pandemi, klien berencana menjual kopinya dalam bentuk siap seduh dan meminta untuk disediakan link ke bukalapak, shopee dan tokopedia
+
+        Dapat dibeli melalui:
+        https://www.bukalapak.com/u/jakartakopi
+        https://shopee.co.id/batavia.coffee
+        https://www.tokopedia.com/bataviaonekopi
+
+# Menu Andalan
+
+    Menu Andalan Kami
+    
+    Nikmati menu andalan yang menjadi favorit customer Kami
+
+        Cafe Latte
+        Cappuchino
+        Double Espresso
+        Es Kopi Kuy
+    (Foto produk sudah disertakan)
+
+# Tentang Kopi Kuy
+    Gak Ngopi Gak Kuy!
+    
+    Didirikan pada 2017, Kopi Kuy merupakan sebuah startup kopi retail yang ingin menyajikan kopi dengan kualitas tinggi untuk para pelanggannya. Nama Kuy yang diambil dari "yuk" yang merupakan harapan kami untuk mengajak semua yang terlibat dalam bisnis kami untuk bersama-sama menikmati sajian kopi yang berkualitas.
+
+    Kopi yang kami jual, hanya dari petani terpilih, dan berkualitas tinggi diproses secara sempurna dan diteruskan oleh para barista handal, yang penuh semangat dalam menyiapkan segelas kebahagiaan spesial untuk anda
+
+# Tim Kami
+    Kami berinvestasi dalam rasa - mulai dari pemilihan biji, metode pemanggangan, hingga barista dengan sertifikat internasional.
+
+        Riki Steven - Founder Kopi Kuy
+        Andi Asraf - Head of Marketing
+        Angelina Felly - Barista
+        Sarah Chou - Barista
+    (Foto team belum disertakan)
+
+# Apa Kata Mereka
+    Kami berikan fakta dan data, karena kepuasan konsumen selalu nomor 1 untuk kami.
+
+    Benny Oktavian - Mahasiswa
+        "Perdana kesini langsung merasa cocok dari segi tempat dan rasa. Baristanya ramah dan pelayanannya maksimal, tidak sungkan bertanya keinginan pengunjung."
+    
+    Rena Oktaviana - Karyawan Swasta
+        Asik buat santai sm tmn2, tempatnya nyaman dan yg bikin seru banyak game2nya yg bs dimainkan bareng tmn2 atau saudara, menunya enak2, pokoknya recomend banget deh tempatnya wajib coba guys!!! Pelayanannya ramah banget 🤗."
+    
+    Bagas Renaldo - Dosen
+        "Tempat nya nyaman sekali pasti kalo kalian dateng betah ... selain tempat yang nyaman lalu pelayanan nya good banget... dan kalian yang datang ke kopi kuy jangan lewatkan permainan yang disediakan oleh kopi kuy , banyak banget game nya!"
+
+# Contact
+
+    Revisi 02 Januari 2099
+    Sementara, cabang lain akan ditutup selama pandemi, dan untuk lokasi maps, tampilkan toko utama saja yang di Jakarta
+
+    https://www.google.com/maps/place/Kopi+kuy/@-6.214715,106.668581,16z/data=!4m6!3m5!1s0x2e69f9912c7f297b:0xe5a3a671dae861ab!8m2!3d-6.2147148!4d106.6685813!16s%2Fg%2F11h_c7hnyx?hl=id
+
+    Telp: +62 (812) 9046 5034
+    Email: hello@kopikuy.com
+    Instagram: @kopi.kuy https://www.instagram.com/kopi.kuy/
+
+# Footer berisi:
+    Best Seller
+    Our Team
+    Review
+    Contact Us
+    Copyright kopi kuy: © 2023 Kopi Kuy. All Rights Reserved
+    

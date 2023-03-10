@@ -1,0 +1,57 @@
+@media (max-width: 700px) {
+    .navigasi {
+        display: none;
+    }
+
+    nav .baris {
+        justify-content: space-between;
+    }
+
+    footer p {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .contact-us .baris .kolom img {
+        height: 43px;
+    }
+
+    .contact-us .baris .kolom p {
+        font-size: 14px;
+    }
+
+    header {
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: center;
+    }
+
+    header .baris {
+        flex-direction: column;
+    }
+
+    header .kanan,
+    header .kiri {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .baris {
+        flex-wrap: wrap;
+    }
+
+    .best-seller .produk {
+        width: 50%;
+    }
+
+    .review .baris .testimoni {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .review .baris {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+}
